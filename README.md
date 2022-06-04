@@ -16,7 +16,7 @@ Small Python script that lets you download the Raw Images from Mars 2020 Perseve
 
 
 ## How to Install and use it
-(Tested on Ubuntu 20.04 and Manjaro 21.0)
+(Tested on Ubuntu 20.04 & 22.04 and Manjaro 21.0)
 
 Step 1: Download or Clone the GitHub repository
 
