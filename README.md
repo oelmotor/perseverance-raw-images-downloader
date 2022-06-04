@@ -1,5 +1,3 @@
-[THIS SCRIPT IS BROKEN AND WON'T BE UPDATED ANY TIME SOON, IT IS ADVISED TO FIX IT YOURSELF!]
-
 # perseverance-raw-images-downloader
 Small Python script that lets you download the Raw Images from Mars 2020 Perseverance.
 
